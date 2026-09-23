@@ -3,3 +3,5 @@
 *.html text eol=lf
 Dockerfile text eol=lf
 nginx.conf text eol=lf
+*.woff2 binary
+*.webp binary
